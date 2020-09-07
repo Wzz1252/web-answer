@@ -17,10 +17,12 @@
 </script>
 
 <style lang="scss">
+    @import "assets/css/color";
+
     body {
         margin: 0;
         background-color: #141414;
-        color: white;
+        color: $app-color;
     }
 
     b {
@@ -35,14 +37,14 @@
         background-color: #141414;
         border-radius: 4px;
         border: 1px solid #262626;
-        color: #FFFFFF;
+        color: $app-color;
     }
 
     .el-select-dropdown {
         background-color: #141414;
         border-radius: 4px;
         border: 1px solid #262626;
-        color: #FFFFFF;
+        color: $app-color;
     }
 
     .el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
