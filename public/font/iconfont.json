@@ -1,0 +1,79 @@
+{
+  "id": "1936305",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15846800",
+      "name": "用户管理",
+      "font_class": "sys_menu_user_manager",
+      "unicode": "ef606",
+      "unicode_decimal": 980486
+    },
+    {
+      "icon_id": "15846083",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15844795",
+      "name": "查询（lv）",
+      "font_class": "sys_menu_inquiry_record",
+      "unicode": "ef611",
+      "unicode_decimal": 980497
+    },
+    {
+      "icon_id": "15843422",
+      "name": "机构管理",
+      "font_class": "sys_menu_institutional_management",
+      "unicode": "ef607",
+      "unicode_decimal": 980487
+    },
+    {
+      "icon_id": "15843423",
+      "name": "诉状模板",
+      "font_class": "sys_menu_complaint_template",
+      "unicode": "ef608",
+      "unicode_decimal": 980488
+    },
+    {
+      "icon_id": "15843424",
+      "name": "短信邮件",
+      "font_class": "sys_menu_sms_mail",
+      "unicode": "ef609",
+      "unicode_decimal": 980489
+    },
+    {
+      "icon_id": "15843425",
+      "name": "资方管理",
+      "font_class": "sys_menu_management",
+      "unicode": "ef60a",
+      "unicode_decimal": 980490
+    },
+    {
+      "icon_id": "15843426",
+      "name": "异步任务",
+      "font_class": "sys_menu_asynchronous",
+      "unicode": "ef60b",
+      "unicode_decimal": 980491
+    },
+    {
+      "icon_id": "15842273",
+      "name": "公共资产",
+      "font_class": "sys_menu_public_assets",
+      "unicode": "ef603",
+      "unicode_decimal": 980483
+    },
+    {
+      "icon_id": "15840930",
+      "name": "案件管理",
+      "font_class": "sys_menu_case_management",
+      "unicode": "ef602",
+      "unicode_decimal": 980482
+    }
+  ]
+}
